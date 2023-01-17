@@ -1,0 +1,8 @@
+.env
+venv/
+.venv/
+secret_debug.env
+.idea
+.DS_Store
+__pycache__/
+download/
